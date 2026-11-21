@@ -1,0 +1,45 @@
+name: Gradnja APK
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Testi in gradnja
+        run: |
+          chmod +x gradlew
+          ./gradlew :core:test :app:assembleDebug --stacktrace
+
+      - name: Pripravi APK
+        run: cp app/build/outputs/apk/debug/app-debug.apk Prijavnice.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Prijavnice-apk
+          path: Prijavnice.apk
+
+      - name: Objavi najnovejšo verzijo (Releases)
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete najnovejsa --cleanup-tag -y || true
+          gh release create najnovejsa Prijavnice.apk \
+            --title "Prijavnice – najnovejša verzija" \
+            --notes "APK iz commita ${GITHUB_SHA::7}. Prenesi Prijavnice.apk na telefon in ga namesti." \
+            --target "$GITHUB_SHA"
