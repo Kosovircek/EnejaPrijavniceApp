@@ -1,0 +1,65 @@
+name: Gradnja APK
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Testi in gradnja
+        run: |
+          chmod +x gradlew
+          ./gradlew :core:test :app:assembleDebug --stacktrace
+
+      - name: Posnetki zaslona
+        run: ./gradlew :app:testDebugUnitTest --stacktrace
+
+      - name: Shrani posnetke na vejo posnetki-zaslona
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd app/screenshots
+          git init -q
+          git checkout -q -b posnetki-zaslona
+          git add .
+          git -c user.name="github-actions" -c user.email="github-actions@users.noreply.github.com" commit -qm "Posnetki zaslona ${GITHUB_SHA::7}"
+          git push -f -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" posnetki-zaslona
+
+      - name: Pripravi APK
+        run: cp app/build/outputs/apk/debug/app-debug.apk Prijavnice.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Prijavnice-apk
+          path: Prijavnice.apk
+
+      - name: Objavi APK pod Releases
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$GITHUB_REF" = "refs/heads/main" ]; then
+            TAG=najnovejsa; TITLE="Prijavnice – najnovejša verzija"; PRE=""
+          else
+            TAG=preizkus; TITLE="Prijavnice – preizkusna verzija (veja ${GITHUB_REF_NAME})"; PRE="--prerelease"
+          fi
+          gh release delete "$TAG" --cleanup-tag -y || true
+          gh release create "$TAG" Prijavnice.apk $PRE \
+            --title "$TITLE" \
+            --notes "APK iz commita ${GITHUB_SHA::7}. Prenesi Prijavnice.apk na telefon in ga namesti." \
+            --target "$GITHUB_SHA"

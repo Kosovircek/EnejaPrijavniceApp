@@ -1,0 +1,5762 @@
+[
+ {
+  "program": "Logistični tehnik",
+  "name": "Ema Zupančič",
+  "teacher": "dr. Irena Kos",
+  "date": "8. 4. 2026",
+  "grade": "3",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_001.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Logistični tehnik",
+    "left": 319,
+    "top": 99,
+    "right": 921,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Ema Zupančič",
+    "left": 380,
+    "top": 255,
+    "right": 622,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "8. 4. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 553,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "3",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal",
+    "left": 120,
+    "top": 654,
+    "right": 1089,
+    "bottom": 684
+   },
+   {
+    "text": "dobro razumevanje snovi.",
+    "left": 120,
+    "top": 699,
+    "right": 509,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Črt Jerman",
+  "teacher": "Tina Gorenc",
+  "date": "14. 1. 2026",
+  "grade": "2",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_002.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: KOZMETIČNI TEHNIK",
+    "left": 90,
+    "top": 82,
+    "right": 925,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Črt Jerman",
+    "left": 90,
+    "top": 261,
+    "right": 301,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "14. 1. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 900,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 90,
+    "top": 427,
+    "right": 287,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "2",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro",
+    "left": 90,
+    "top": 596,
+    "right": 1029,
+    "bottom": 624
+   },
+   {
+    "text": "razumevanje snovi.",
+    "left": 90,
+    "top": 640,
+    "right": 348,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Jan Kos",
+  "teacher": "Tina Gorenc",
+  "date": "7. 12. 2026",
+  "grade": "5",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_003.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Logistični tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 518,
+    "bottom": 164
+   },
+   {
+    "text": "Datum: 7. 12. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Jan Kos",
+    "left": 100,
+    "top": 442,
+    "right": 228,
+    "bottom": 468
+   },
+   {
+    "text": "Učitelj/ica: Tina Gorenc",
+    "left": 100,
+    "top": 539,
+    "right": 429,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 5",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Trgovec",
+  "name": "Lara Žagar",
+  "teacher": "mag. Mojca Leban",
+  "date": "25. 3. 2026",
+  "grade": "5",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_004.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "TRGOVEC",
+    "left": 471,
+    "top": 105,
+    "right": 767,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Lara Žagar",
+    "left": 520,
+    "top": 360,
+    "right": 696,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 520,
+    "top": 446,
+    "right": 812,
+    "bottom": 477
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "25. 3. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "5",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 100,
+    "top": 764,
+    "right": 1077,
+    "bottom": 792
+   },
+   {
+    "text": "priložene.",
+    "left": 100,
+    "top": 806,
+    "right": 238,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Maja Kovačič",
+  "teacher": "dr. Irena Kos",
+  "date": "4. 2. 2026",
+  "grade": "5",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_005.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 300,
+    "top": 101,
+    "right": 941,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Maja Kovačič",
+    "left": 380,
+    "top": 255,
+    "right": 600,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "4. 2. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 553,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "5",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal",
+    "left": 120,
+    "top": 654,
+    "right": 1089,
+    "bottom": 684
+   },
+   {
+    "text": "dobro razumevanje snovi.",
+    "left": 120,
+    "top": 699,
+    "right": 509,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Administrator",
+  "name": "Matic Žnidaršič",
+  "teacher": "Tina Gorenc",
+  "date": "9. 1. 2026",
+  "grade": "5",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_006.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: ADMINISTRATOR",
+    "left": 90,
+    "top": 91,
+    "right": 823,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Matic Žnidaršič",
+    "left": 90,
+    "top": 261,
+    "right": 381,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "9. 1. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 878,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 90,
+    "top": 427,
+    "right": 287,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "5",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro",
+    "left": 90,
+    "top": 596,
+    "right": 1029,
+    "bottom": 624
+   },
+   {
+    "text": "razumevanje snovi.",
+    "left": 90,
+    "top": 640,
+    "right": 348,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Rok Kralj",
+  "teacher": "Tina Gorenc",
+  "date": "10. 11. 2026",
+  "grade": "4",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_007.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Kozmetični tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 557,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 10. 11. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1146,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Rok Kralj",
+    "left": 100,
+    "top": 440,
+    "right": 259,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Tina Gorenc",
+    "left": 100,
+    "top": 539,
+    "right": 429,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 4",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Neža Kranjc",
+  "teacher": "Janez Petek",
+  "date": "25. 5. 2026",
+  "grade": "2",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_008.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "LOGISTIČNI TEHNIK",
+    "left": 314,
+    "top": 95,
+    "right": 927,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Neža Kranjc",
+    "left": 520,
+    "top": 364,
+    "right": 711,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "Janez Petek",
+    "left": 518,
+    "top": 446,
+    "right": 705,
+    "bottom": 476
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "25. 5. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "2",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 100,
+    "top": 765,
+    "right": 1100,
+    "bottom": 792
+   },
+   {
+    "text": "komisijo.",
+    "left": 100,
+    "top": 807,
+    "right": 223,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Gastronomija in turizem",
+  "name": "Blaž Zupančič",
+  "teacher": "dr. Irena Kos",
+  "date": "15. 11. 2026",
+  "grade": "4",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_009.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Gastronomija in turizem",
+    "left": 183,
+    "top": 101,
+    "right": 1055,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Blaž Zupančič",
+    "left": 380,
+    "top": 255,
+    "right": 618,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "15. 11. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 596,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "4",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor",
+    "left": 120,
+    "top": 655,
+    "right": 1114,
+    "bottom": 684
+   },
+   {
+    "text": "pred komisijo.",
+    "left": 120,
+    "top": 699,
+    "right": 330,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Matic Božič",
+  "teacher": "dr. Irena Kos",
+  "date": "23. 11. 2026",
+  "grade": "2",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_010.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: EKONOMSKI TEHNIK",
+    "left": 90,
+    "top": 91,
+    "right": 922,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Matic Božič",
+    "left": 90,
+    "top": 266,
+    "right": 310,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "23. 11. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 919,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 90,
+    "top": 427,
+    "right": 294,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "2",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 90,
+    "top": 596,
+    "right": 1034,
+    "bottom": 624
+   },
+   {
+    "text": "komisijo.",
+    "left": 90,
+    "top": 640,
+    "right": 207,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Gašper Jerman",
+  "teacher": "Janez Petek",
+  "date": "15. 7. 2026",
+  "grade": "4",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_011.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 554,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 15. 7. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Gašper Jerman",
+    "left": 100,
+    "top": 440,
+    "right": 339,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Janez Petek",
+    "left": 100,
+    "top": 539,
+    "right": 419,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 4",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Črt Turk",
+  "teacher": "Janez Petek",
+  "date": "27. 1. 2026",
+  "grade": "4",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_012.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "LOGISTIČNI TEHNIK",
+    "left": 314,
+    "top": 95,
+    "right": 927,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Črt Turk",
+    "left": 520,
+    "top": 360,
+    "right": 645,
+    "bottom": 390
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "Janez Petek",
+    "left": 518,
+    "top": 446,
+    "right": 705,
+    "bottom": 476
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "27. 1. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "4",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 100,
+    "top": 764,
+    "right": 1072,
+    "bottom": 792
+   },
+   {
+    "text": "mentorjem.",
+    "left": 100,
+    "top": 807,
+    "right": 263,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Maja Kranjc",
+  "teacher": "Tina Gorenc",
+  "date": "23. 6. 2026",
+  "grade": "3",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_013.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 300,
+    "top": 101,
+    "right": 941,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Maja Kranjc",
+    "left": 380,
+    "top": 256,
+    "right": 578,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 379,
+    "top": 336,
+    "right": 584,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "23. 6. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "3",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po",
+    "left": 120,
+    "top": 654,
+    "right": 1007,
+    "bottom": 684
+   },
+   {
+    "text": "posvetu z mentorjem.",
+    "left": 120,
+    "top": 699,
+    "right": 450,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Urška Dolenc",
+  "teacher": "Janez Petek",
+  "date": "9. 3. 2026",
+  "grade": "3",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_014.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: PREDŠOLSKA VZGOJA",
+    "left": 90,
+    "top": 82,
+    "right": 981,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Urška Dolenc",
+    "left": 90,
+    "top": 266,
+    "right": 346,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "9. 3. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 878,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Janez Petek",
+    "left": 90,
+    "top": 427,
+    "right": 289,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "3",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 90,
+    "top": 596,
+    "right": 1014,
+    "bottom": 624
+   },
+   {
+    "text": "priložene.",
+    "left": 90,
+    "top": 640,
+    "right": 220,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Gastronomija in turizem",
+  "name": "Aljaž Žagar",
+  "teacher": "Tina Gorenc",
+  "date": "13. 6. 2026",
+  "grade": "3",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_015.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Gastronomija in turizem",
+    "left": 100,
+    "top": 111,
+    "right": 714,
+    "bottom": 164
+   },
+   {
+    "text": "Datum: 13. 6. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Aljaž Žagar",
+    "left": 100,
+    "top": 433,
+    "right": 290,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Tina Gorenc",
+    "left": 100,
+    "top": 539,
+    "right": 429,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 3",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Zala Hribar",
+  "teacher": "mag. Mojca Leban",
+  "date": "28. 2. 2026",
+  "grade": "3",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_016.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "KOZMETIČNI TEHNIK",
+    "left": 297,
+    "top": 95,
+    "right": 944,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Zala Hribar",
+    "left": 520,
+    "top": 366,
+    "right": 700,
+    "bottom": 390
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 520,
+    "top": 446,
+    "right": 812,
+    "bottom": 477
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "28. 2. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "3",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 100,
+    "top": 765,
+    "right": 1100,
+    "bottom": 792
+   },
+   {
+    "text": "komisijo.",
+    "left": 100,
+    "top": 807,
+    "right": 223,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Gastronomija in turizem",
+  "name": "Jaka Erjavec",
+  "teacher": "Tina Gorenc",
+  "date": "3. 7. 2026",
+  "grade": "5",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_017.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Gastronomija in turizem",
+    "left": 183,
+    "top": 101,
+    "right": 1055,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Jaka Erjavec",
+    "left": 378,
+    "top": 256,
+    "right": 587,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 379,
+    "top": 336,
+    "right": 584,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "3. 7. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 553,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "5",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po",
+    "left": 120,
+    "top": 654,
+    "right": 1007,
+    "bottom": 684
+   },
+   {
+    "text": "posvetu z mentorjem.",
+    "left": 120,
+    "top": 699,
+    "right": 450,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Zala Vidmar",
+  "teacher": "mag. Mojca Leban",
+  "date": "22. 9. 2026",
+  "grade": "4",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_018.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: LOGISTIČNI TEHNIK",
+    "left": 90,
+    "top": 82,
+    "right": 899,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Zala Vidmar",
+    "left": 90,
+    "top": 268,
+    "right": 316,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "22. 9. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 900,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 90,
+    "top": 427,
+    "right": 386,
+    "bottom": 460
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "4",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 90,
+    "top": 596,
+    "right": 1014,
+    "bottom": 624
+   },
+   {
+    "text": "priložene.",
+    "left": 90,
+    "top": 640,
+    "right": 220,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Gastronomija in turizem",
+  "name": "Špela Golob",
+  "teacher": "Janez Petek",
+  "date": "15. 1. 2026",
+  "grade": "4",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_019.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Gastronomija in turizem",
+    "left": 100,
+    "top": 111,
+    "right": 714,
+    "bottom": 164
+   },
+   {
+    "text": "Datum: 15. 1. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Špela Golob",
+    "left": 100,
+    "top": 433,
+    "right": 299,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Janez Petek",
+    "left": 100,
+    "top": 539,
+    "right": 419,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 4",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Zala Pirc",
+  "teacher": "dr. Irena Kos",
+  "date": "27. 11. 2026",
+  "grade": "3",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_020.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "KOZMETIČNI TEHNIK",
+    "left": 297,
+    "top": 95,
+    "right": 944,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Zala Pirc",
+    "left": 520,
+    "top": 366,
+    "right": 658,
+    "bottom": 390
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 520,
+    "top": 446,
+    "right": 718,
+    "bottom": 470
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "27. 11. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 724,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "3",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 100,
+    "top": 765,
+    "right": 1100,
+    "bottom": 792
+   },
+   {
+    "text": "komisijo.",
+    "left": 100,
+    "top": 807,
+    "right": 223,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Matic Šuštar",
+  "teacher": "Tina Gorenc",
+  "date": "25. 9. 2026",
+  "grade": "2",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_021.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Frizer",
+    "left": 517,
+    "top": 101,
+    "right": 723,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Matic Šuštar",
+    "left": 380,
+    "top": 251,
+    "right": 591,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 379,
+    "top": 336,
+    "right": 584,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "25. 9. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "2",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe",
+    "left": 120,
+    "top": 654,
+    "right": 978,
+    "bottom": 684
+   },
+   {
+    "text": "mentorja so priložene.",
+    "left": 120,
+    "top": 698,
+    "right": 457,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Tim Novak",
+  "teacher": "dr. Irena Kos",
+  "date": "27. 5. 2026",
+  "grade": "3",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_022.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: KOZMETIČNI TEHNIK",
+    "left": 90,
+    "top": 82,
+    "right": 925,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Tim Novak",
+    "left": 90,
+    "top": 268,
+    "right": 292,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "27. 5. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 900,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 90,
+    "top": 427,
+    "right": 294,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "3",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro",
+    "left": 90,
+    "top": 596,
+    "right": 1029,
+    "bottom": 624
+   },
+   {
+    "text": "razumevanje snovi.",
+    "left": 90,
+    "top": 640,
+    "right": 348,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Tjaša Dolenc",
+  "teacher": "mag. Mojca Leban",
+  "date": "24. 8. 2026",
+  "grade": "2",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_023.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Kozmetični tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 557,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 24. 8. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Tjaša Dolenc",
+    "left": 100,
+    "top": 440,
+    "right": 312,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: mag. Mojca Leban",
+    "left": 100,
+    "top": 539,
+    "right": 515,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 2",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Nika Erjavec",
+  "teacher": "Tina Gorenc",
+  "date": "6. 5. 2026",
+  "grade": "5",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_024.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "PREDŠOLSKA VZGOJA",
+    "left": 279,
+    "top": 95,
+    "right": 960,
+    "bottom": 158
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Nika Erjavec",
+    "left": 520,
+    "top": 366,
+    "right": 719,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 519,
+    "top": 446,
+    "right": 712,
+    "bottom": 470
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "6. 5. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 683,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "5",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 100,
+    "top": 765,
+    "right": 1100,
+    "bottom": 792
+   },
+   {
+    "text": "komisijo.",
+    "left": 100,
+    "top": 807,
+    "right": 223,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Rok Rozman",
+  "teacher": "dr. Irena Kos",
+  "date": "13. 11. 2026",
+  "grade": "4",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_025.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 300,
+    "top": 101,
+    "right": 941,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Rok Rozman",
+    "left": 380,
+    "top": 256,
+    "right": 590,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "13. 11. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 596,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "4",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po",
+    "left": 120,
+    "top": 654,
+    "right": 1007,
+    "bottom": 684
+   },
+   {
+    "text": "posvetu z mentorjem.",
+    "left": 120,
+    "top": 699,
+    "right": 450,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Lana Korošec",
+  "teacher": "mag. Mojca Leban",
+  "date": "8. 4. 2026",
+  "grade": "2",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_026.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: PREDŠOLSKA VZGOJA",
+    "left": 90,
+    "top": 82,
+    "right": 981,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Lana Korošec",
+    "left": 90,
+    "top": 266,
+    "right": 355,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "8. 4. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 878,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 90,
+    "top": 427,
+    "right": 386,
+    "bottom": 460
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "2",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 90,
+    "top": 596,
+    "right": 1014,
+    "bottom": 624
+   },
+   {
+    "text": "priložene.",
+    "left": 90,
+    "top": 640,
+    "right": 220,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Ana Žagar",
+  "teacher": "Tina Gorenc",
+  "date": "8. 1. 2026",
+  "grade": "2",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_027.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 554,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 8. 1. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1117,
+    "bottom": 257
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili",
+    "left": 100,
+    "top": 237,
+    "right": 800,
+    "bottom": 266
+   },
+   {
+    "text": "in pokazal dobro razumevanje snovi.",
+    "left": 100,
+    "top": 283,
+    "right": 572,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Ana Žagar",
+    "left": 100,
+    "top": 433,
+    "right": 270,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Tina Gorenc",
+    "left": 100,
+    "top": 539,
+    "right": 429,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 2",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Tjaša Kranjc",
+  "teacher": "dr. Irena Kos",
+  "date": "3. 9. 2026",
+  "grade": "3",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_028.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "LOGISTIČNI TEHNIK",
+    "left": 314,
+    "top": 95,
+    "right": 927,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Tjaša Kranjc",
+    "left": 519,
+    "top": 364,
+    "right": 715,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 520,
+    "top": 446,
+    "right": 718,
+    "bottom": 470
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "3. 9. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 683,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "3",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 100,
+    "top": 764,
+    "right": 1077,
+    "bottom": 792
+   },
+   {
+    "text": "priložene.",
+    "left": 100,
+    "top": 806,
+    "right": 238,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Črt Hribar",
+  "teacher": "Tina Gorenc",
+  "date": "5. 12. 2026",
+  "grade": "5",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_029.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 300,
+    "top": 101,
+    "right": 941,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Črt Hribar",
+    "left": 380,
+    "top": 251,
+    "right": 547,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 379,
+    "top": 336,
+    "right": 584,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "5. 12. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "5",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor",
+    "left": 120,
+    "top": 655,
+    "right": 1114,
+    "bottom": 684
+   },
+   {
+    "text": "pred komisijo.",
+    "left": 120,
+    "top": 699,
+    "right": 330,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Gastronomija in turizem",
+  "name": "Jaka Hribar",
+  "teacher": "Janez Petek",
+  "date": "4. 2. 2026",
+  "grade": "5",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_030.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: GASTRONOMIJA IN TURIZEM",
+    "left": 90,
+    "top": 91,
+    "right": 1128,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Jaka Hribar",
+    "left": 90,
+    "top": 268,
+    "right": 308,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "4. 2. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 878,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Janez Petek",
+    "left": 90,
+    "top": 427,
+    "right": 289,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "5",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 90,
+    "top": 596,
+    "right": 1014,
+    "bottom": 624
+   },
+   {
+    "text": "priložene.",
+    "left": 90,
+    "top": 640,
+    "right": 220,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Nejc Zupan",
+  "teacher": "mag. Mojca Leban",
+  "date": "22. 11. 2026",
+  "grade": "2",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_031.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Predšolska vzgoja",
+    "left": 100,
+    "top": 111,
+    "right": 545,
+    "bottom": 164
+   },
+   {
+    "text": "Datum: 22. 11. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1146,
+    "bottom": 257
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili",
+    "left": 100,
+    "top": 237,
+    "right": 800,
+    "bottom": 266
+   },
+   {
+    "text": "in pokazal dobro razumevanje snovi.",
+    "left": 100,
+    "top": 283,
+    "right": 572,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Nejc Zupan",
+    "left": 100,
+    "top": 440,
+    "right": 288,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: mag. Mojca Leban",
+    "left": 100,
+    "top": 539,
+    "right": 515,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 2",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Administrator",
+  "name": "Urška Jerman",
+  "teacher": "mag. Mojca Leban",
+  "date": "8. 4. 2026",
+  "grade": "3",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_032.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "ADMINISTRATOR",
+    "left": 358,
+    "top": 105,
+    "right": 882,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Urška Jerman",
+    "left": 520,
+    "top": 364,
+    "right": 734,
+    "bottom": 396
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 520,
+    "top": 446,
+    "right": 812,
+    "bottom": 477
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "8. 4. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 683,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "3",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 100,
+    "top": 764,
+    "right": 1072,
+    "bottom": 792
+   },
+   {
+    "text": "mentorjem.",
+    "left": 100,
+    "top": 807,
+    "right": 263,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Nika Zupan",
+  "teacher": "dr. Irena Kos",
+  "date": "15. 4. 2026",
+  "grade": "2",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_033.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Frizer",
+    "left": 517,
+    "top": 101,
+    "right": 723,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Nika Zupan",
+    "left": 380,
+    "top": 256,
+    "right": 574,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "15. 4. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "2",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po",
+    "left": 120,
+    "top": 654,
+    "right": 1007,
+    "bottom": 684
+   },
+   {
+    "text": "posvetu z mentorjem.",
+    "left": 120,
+    "top": 699,
+    "right": 450,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Jaka Žnidaršič",
+  "teacher": "mag. Mojca Leban",
+  "date": "21. 9. 2026",
+  "grade": "2",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_034.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: KOZMETIČNI TEHNIK",
+    "left": 90,
+    "top": 82,
+    "right": 925,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Jaka Žnidaršič",
+    "left": 90,
+    "top": 261,
+    "right": 368,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "21. 9. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 900,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 90,
+    "top": 427,
+    "right": 386,
+    "bottom": 460
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "2",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro",
+    "left": 90,
+    "top": 596,
+    "right": 1029,
+    "bottom": 624
+   },
+   {
+    "text": "razumevanje snovi.",
+    "left": 90,
+    "top": 640,
+    "right": 348,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Rok Šuštar",
+  "teacher": "Janez Petek",
+  "date": "14. 8. 2026",
+  "grade": "5",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_035.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 554,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 14. 8. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Rok Šuštar",
+    "left": 100,
+    "top": 433,
+    "right": 277,
+    "bottom": 468
+   },
+   {
+    "text": "Učitelj/ica: Janez Petek",
+    "left": 100,
+    "top": 539,
+    "right": 419,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 5",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Blaž Kralj",
+  "teacher": "Janez Petek",
+  "date": "13. 1. 2026",
+  "grade": "5",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_036.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "LOGISTIČNI TEHNIK",
+    "left": 314,
+    "top": 95,
+    "right": 927,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Blaž Kralj",
+    "left": 520,
+    "top": 364,
+    "right": 669,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "Janez Petek",
+    "left": 518,
+    "top": 446,
+    "right": 705,
+    "bottom": 476
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "13. 1. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "5",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 100,
+    "top": 764,
+    "right": 1077,
+    "bottom": 792
+   },
+   {
+    "text": "priložene.",
+    "left": 100,
+    "top": 806,
+    "right": 238,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Rok Čuk",
+  "teacher": "dr. Irena Kos",
+  "date": "14. 12. 2026",
+  "grade": "5",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_037.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Predšolska vzgoja",
+    "left": 294,
+    "top": 99,
+    "right": 946,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Rok Čuk",
+    "left": 380,
+    "top": 251,
+    "right": 519,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "14. 12. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 596,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "5",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor",
+    "left": 120,
+    "top": 655,
+    "right": 1114,
+    "bottom": 684
+   },
+   {
+    "text": "pred komisijo.",
+    "left": 120,
+    "top": 699,
+    "right": 330,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Jan Golob",
+  "teacher": "mag. Mojca Leban",
+  "date": "19. 12. 2026",
+  "grade": "2",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_038.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: EKONOMSKI TEHNIK",
+    "left": 90,
+    "top": 91,
+    "right": 922,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Jan Golob",
+    "left": 90,
+    "top": 268,
+    "right": 286,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "19. 12. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 922,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 90,
+    "top": 427,
+    "right": 386,
+    "bottom": 460
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "2",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 90,
+    "top": 596,
+    "right": 1014,
+    "bottom": 624
+   },
+   {
+    "text": "priložene.",
+    "left": 90,
+    "top": 640,
+    "right": 220,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Žiga Horvat",
+  "teacher": "Tina Gorenc",
+  "date": "28. 9. 2026",
+  "grade": "3",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_039.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Predšolska vzgoja",
+    "left": 100,
+    "top": 111,
+    "right": 545,
+    "bottom": 164
+   },
+   {
+    "text": "Datum: 28. 9. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili",
+    "left": 100,
+    "top": 237,
+    "right": 800,
+    "bottom": 266
+   },
+   {
+    "text": "in pokazal dobro razumevanje snovi.",
+    "left": 100,
+    "top": 283,
+    "right": 572,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Žiga Horvat",
+    "left": 100,
+    "top": 433,
+    "right": 294,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Tina Gorenc",
+    "left": 100,
+    "top": 539,
+    "right": 429,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 3",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Zala Kranjc",
+  "teacher": "mag. Mojca Leban",
+  "date": "20. 2. 2026",
+  "grade": "3",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_040.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "FRIZER",
+    "left": 507,
+    "top": 106,
+    "right": 731,
+    "bottom": 147
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Zala Kranjc",
+    "left": 520,
+    "top": 366,
+    "right": 701,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 520,
+    "top": 446,
+    "right": 812,
+    "bottom": 477
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "20. 2. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "3",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 100,
+    "top": 764,
+    "right": 1072,
+    "bottom": 792
+   },
+   {
+    "text": "mentorjem.",
+    "left": 100,
+    "top": 807,
+    "right": 263,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Špela Dolenc",
+  "teacher": "Tina Gorenc",
+  "date": "20. 1. 2026",
+  "grade": "2",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_041.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Ekonomski tehnik",
+    "left": 300,
+    "top": 101,
+    "right": 941,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Špela Dolenc",
+    "left": 380,
+    "top": 251,
+    "right": 603,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 379,
+    "top": 336,
+    "right": 584,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "20. 1. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "2",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po",
+    "left": 120,
+    "top": 654,
+    "right": 1007,
+    "bottom": 684
+   },
+   {
+    "text": "posvetu z mentorjem.",
+    "left": 120,
+    "top": 699,
+    "right": 450,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Administrator",
+  "name": "Črt Žagar",
+  "teacher": "dr. Irena Kos",
+  "date": "7. 11. 2026",
+  "grade": "4",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_042.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: ADMINISTRATOR",
+    "left": 90,
+    "top": 91,
+    "right": 823,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Črt Žagar",
+    "left": 90,
+    "top": 261,
+    "right": 268,
+    "bottom": 305
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "7. 11. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 897,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 90,
+    "top": 427,
+    "right": 294,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "4",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 90,
+    "top": 596,
+    "right": 1034,
+    "bottom": 624
+   },
+   {
+    "text": "komisijo.",
+    "left": 90,
+    "top": 640,
+    "right": 207,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Maja Kralj",
+  "teacher": "dr. Irena Kos",
+  "date": "15. 6. 2026",
+  "grade": "2",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_043.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Frizer",
+    "left": 100,
+    "top": 111,
+    "right": 255,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 15. 6. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili",
+    "left": 100,
+    "top": 237,
+    "right": 800,
+    "bottom": 266
+   },
+   {
+    "text": "in pokazal dobro razumevanje snovi.",
+    "left": 100,
+    "top": 283,
+    "right": 572,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Maja Kralj",
+    "left": 100,
+    "top": 440,
+    "right": 274,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: dr. Irena Kos",
+    "left": 100,
+    "top": 539,
+    "right": 436,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 2",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Lara Čeh",
+  "teacher": "mag. Mojca Leban",
+  "date": "18. 4. 2026",
+  "grade": "4",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_044.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "KOZMETIČNI TEHNIK",
+    "left": 297,
+    "top": 95,
+    "right": 944,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Lara Čeh",
+    "left": 520,
+    "top": 360,
+    "right": 663,
+    "bottom": 390
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 520,
+    "top": 446,
+    "right": 812,
+    "bottom": 477
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "18. 4. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "4",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 100,
+    "top": 765,
+    "right": 1100,
+    "bottom": 792
+   },
+   {
+    "text": "komisijo.",
+    "left": 100,
+    "top": 807,
+    "right": 223,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Rok Božič",
+  "teacher": "Janez Petek",
+  "date": "12. 5. 2026",
+  "grade": "3",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_045.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Kozmetični tehnik",
+    "left": 295,
+    "top": 99,
+    "right": 946,
+    "bottom": 151
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Rok Božič",
+    "left": 380,
+    "top": 255,
+    "right": 544,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Janez Petek",
+    "left": 378,
+    "top": 336,
+    "right": 576,
+    "bottom": 369
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "12. 5. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "3",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po",
+    "left": 120,
+    "top": 654,
+    "right": 1007,
+    "bottom": 684
+   },
+   {
+    "text": "posvetu z mentorjem.",
+    "left": 120,
+    "top": 699,
+    "right": 450,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Trgovec",
+  "name": "Pia Rozman",
+  "teacher": "Tina Gorenc",
+  "date": "26. 11. 2026",
+  "grade": "2",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_046.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: TRGOVEC",
+    "left": 90,
+    "top": 91,
+    "right": 650,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Pia Rozman",
+    "left": 90,
+    "top": 268,
+    "right": 317,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "26. 11. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 919,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 90,
+    "top": 427,
+    "right": 287,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "2",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 90,
+    "top": 596,
+    "right": 1014,
+    "bottom": 624
+   },
+   {
+    "text": "priložene.",
+    "left": 90,
+    "top": 640,
+    "right": 220,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Rok Erjavec",
+  "teacher": "Janez Petek",
+  "date": "9. 2. 2026",
+  "grade": "2",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_047.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Kozmetični tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 557,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 9. 2. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1117,
+    "bottom": 257
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev",
+    "left": 100,
+    "top": 237,
+    "right": 802,
+    "bottom": 266
+   },
+   {
+    "text": "in zagovor pred komisijo.",
+    "left": 100,
+    "top": 283,
+    "right": 429,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Rok Erjavec",
+    "left": 100,
+    "top": 440,
+    "right": 299,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: Janez Petek",
+    "left": 100,
+    "top": 539,
+    "right": 419,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 2",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Maja Golob",
+  "teacher": "dr. Irena Kos",
+  "date": "7. 11. 2026",
+  "grade": "4",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_048.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "EKONOMSKI TEHNIK",
+    "left": 302,
+    "top": 105,
+    "right": 940,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Maja Golob",
+    "left": 520,
+    "top": 366,
+    "right": 699,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 520,
+    "top": 446,
+    "right": 718,
+    "bottom": 470
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "7. 11. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "4",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 100,
+    "top": 764,
+    "right": 1072,
+    "bottom": 792
+   },
+   {
+    "text": "mentorjem.",
+    "left": 100,
+    "top": 807,
+    "right": 263,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Maja Dolenc",
+  "teacher": "mag. Mojca Leban",
+  "date": "21. 7. 2026",
+  "grade": "4",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_049.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Logistični tehnik",
+    "left": 319,
+    "top": 99,
+    "right": 921,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Maja Dolenc",
+    "left": 380,
+    "top": 256,
+    "right": 589,
+    "bottom": 289
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "mag. Mojca Leban",
+    "left": 380,
+    "top": 336,
+    "right": 690,
+    "bottom": 369
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "21. 7. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "4",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal",
+    "left": 120,
+    "top": 654,
+    "right": 1089,
+    "bottom": 684
+   },
+   {
+    "text": "dobro razumevanje snovi.",
+    "left": 120,
+    "top": 699,
+    "right": 509,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Ana Turk",
+  "teacher": "dr. Irena Kos",
+  "date": "6. 12. 2026",
+  "grade": "5",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_050.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: FRIZER",
+    "left": 90,
+    "top": 91,
+    "right": 581,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Ana Turk",
+    "left": 90,
+    "top": 268,
+    "right": 261,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "6. 12. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 900,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 90,
+    "top": 427,
+    "right": 294,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "5",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 90,
+    "top": 596,
+    "right": 1006,
+    "bottom": 624
+   },
+   {
+    "text": "mentorjem.",
+    "left": 90,
+    "top": 640,
+    "right": 240,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Gašper Novak",
+  "teacher": "mag. Mojca Leban",
+  "date": "23. 3. 2026",
+  "grade": "2",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_051.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Kozmetični tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 557,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 23. 3. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1132,
+    "bottom": 257
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula.",
+    "left": 100,
+    "top": 237,
+    "right": 726,
+    "bottom": 266
+   },
+   {
+    "text": "Opombe mentorja so priložene.",
+    "left": 100,
+    "top": 283,
+    "right": 503,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Gašper Novak",
+    "left": 100,
+    "top": 440,
+    "right": 330,
+    "bottom": 477
+   },
+   {
+    "text": "Učitelj/ica: mag. Mojca Leban",
+    "left": 100,
+    "top": 539,
+    "right": 515,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 2",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Klara Rozman",
+  "teacher": "Marko Vovk",
+  "date": "5. 1. 2026",
+  "grade": "4",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_052.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "FRIZER",
+    "left": 507,
+    "top": 106,
+    "right": 731,
+    "bottom": 147
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Klara Rozman",
+    "left": 520,
+    "top": 366,
+    "right": 741,
+    "bottom": 390
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "Marko Vovk",
+    "left": 520,
+    "top": 446,
+    "right": 704,
+    "bottom": 470
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "5. 1. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 683,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "4",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so",
+    "left": 100,
+    "top": 764,
+    "right": 1077,
+    "bottom": 792
+   },
+   {
+    "text": "priložene.",
+    "left": 100,
+    "top": 806,
+    "right": 238,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Logistični tehnik",
+  "name": "Lana Pirc",
+  "teacher": "dr. Irena Kos",
+  "date": "7. 11. 2026",
+  "grade": "3",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_053.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Logistični tehnik",
+    "left": 319,
+    "top": 99,
+    "right": 921,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Lana Pirc",
+    "left": 380,
+    "top": 256,
+    "right": 534,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 380,
+    "top": 336,
+    "right": 591,
+    "bottom": 362
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "7. 11. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 575,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "3",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal",
+    "left": 120,
+    "top": 654,
+    "right": 1089,
+    "bottom": 684
+   },
+   {
+    "text": "dobro razumevanje snovi.",
+    "left": 120,
+    "top": 699,
+    "right": 509,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Gastronomija in turizem",
+  "name": "Gašper Dolenc",
+  "teacher": "Tina Gorenc",
+  "date": "24. 3. 2026",
+  "grade": "3",
+  "desc": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred komisijo.",
+  "file": "prijavnica_054.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: GASTRONOMIJA IN TURIZEM",
+    "left": 90,
+    "top": 91,
+    "right": 1128,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Gašper Dolenc",
+    "left": 90,
+    "top": 266,
+    "right": 372,
+    "bottom": 305
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "24. 3. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 900,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Tina Gorenc",
+    "left": 90,
+    "top": 427,
+    "right": 287,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "3",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Projektna naloga obsega pripravo izdelka, predstavitev in zagovor pred",
+    "left": 90,
+    "top": 596,
+    "right": 1034,
+    "bottom": 624
+   },
+   {
+    "text": "komisijo.",
+    "left": 90,
+    "top": 640,
+    "right": 207,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Frizer",
+  "name": "Jaka Čuk",
+  "teacher": "Marko Vovk",
+  "date": "1. 3. 2026",
+  "grade": "4",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_055.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Frizer",
+    "left": 100,
+    "top": 111,
+    "right": 255,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 1. 3. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1117,
+    "bottom": 257
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi",
+    "left": 100,
+    "top": 237,
+    "right": 707,
+    "bottom": 266
+   },
+   {
+    "text": "popravki po posvetu z mentorjem.",
+    "left": 100,
+    "top": 283,
+    "right": 538,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Jaka Čuk",
+    "left": 100,
+    "top": 433,
+    "right": 248,
+    "bottom": 468
+   },
+   {
+    "text": "Učitelj/ica: Marko Vovk",
+    "left": 100,
+    "top": 539,
+    "right": 429,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 4",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Blaž Jerman",
+  "teacher": "dr. Irena Kos",
+  "date": "6. 12. 2026",
+  "grade": "2",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_056.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "EKONOMSKI TEHNIK",
+    "left": 302,
+    "top": 105,
+    "right": 940,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Blaž Jerman",
+    "left": 520,
+    "top": 364,
+    "right": 710,
+    "bottom": 396
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "dr. Irena Kos",
+    "left": 520,
+    "top": 446,
+    "right": 718,
+    "bottom": 470
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "6. 12. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "2",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 100,
+    "top": 764,
+    "right": 1072,
+    "bottom": 792
+   },
+   {
+    "text": "mentorjem.",
+    "left": 100,
+    "top": 807,
+    "right": 263,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ },
+ {
+  "program": "Predšolska vzgoja",
+  "name": "Blaž Horvat",
+  "teacher": "Janez Petek",
+  "date": "7. 8. 2026",
+  "grade": "4",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_057.png",
+  "layout": "layout_a",
+  "lines": [
+   {
+    "text": "Predšolska vzgoja",
+    "left": 294,
+    "top": 99,
+    "right": 946,
+    "bottom": 164
+   },
+   {
+    "text": "Učenec:",
+    "left": 120,
+    "top": 255,
+    "right": 272,
+    "bottom": 282
+   },
+   {
+    "text": "Blaž Horvat",
+    "left": 380,
+    "top": 255,
+    "right": 577,
+    "bottom": 282
+   },
+   {
+    "text": "Učitelj:",
+    "left": 120,
+    "top": 335,
+    "right": 256,
+    "bottom": 369
+   },
+   {
+    "text": "Janez Petek",
+    "left": 378,
+    "top": 336,
+    "right": 576,
+    "bottom": 369
+   },
+   {
+    "text": "Datum:",
+    "left": 120,
+    "top": 417,
+    "right": 261,
+    "bottom": 442
+   },
+   {
+    "text": "7. 8. 2026",
+    "left": 380,
+    "top": 417,
+    "right": 553,
+    "bottom": 442
+   },
+   {
+    "text": "Ocena:",
+    "left": 120,
+    "top": 497,
+    "right": 253,
+    "bottom": 522
+   },
+   {
+    "text": "4",
+    "left": 380,
+    "top": 497,
+    "right": 402,
+    "bottom": 522
+   },
+   {
+    "text": "Opis:",
+    "left": 120,
+    "top": 596,
+    "right": 219,
+    "bottom": 629
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula. Opombe",
+    "left": 120,
+    "top": 654,
+    "right": 978,
+    "bottom": 684
+   },
+   {
+    "text": "mentorja so priložene.",
+    "left": 120,
+    "top": 698,
+    "right": 457,
+    "bottom": 728
+   }
+  ]
+ },
+ {
+  "program": "Ekonomski tehnik",
+  "name": "Pia Čuk",
+  "teacher": "Janez Petek",
+  "date": "1. 11. 2026",
+  "grade": "3",
+  "desc": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z mentorjem.",
+  "file": "prijavnica_058.png",
+  "layout": "layout_b",
+  "lines": [
+   {
+    "text": "PROGRAM: EKONOMSKI TEHNIK",
+    "left": 90,
+    "top": 91,
+    "right": 922,
+    "bottom": 129
+   },
+   {
+    "text": "Ime in priimek učenca",
+    "left": 90,
+    "top": 225,
+    "right": 363,
+    "bottom": 252
+   },
+   {
+    "text": "Pia Čuk",
+    "left": 90,
+    "top": 261,
+    "right": 237,
+    "bottom": 297
+   },
+   {
+    "text": "Datum prijave",
+    "left": 700,
+    "top": 226,
+    "right": 873,
+    "bottom": 252
+   },
+   {
+    "text": "1. 11. 2026",
+    "left": 700,
+    "top": 269,
+    "right": 897,
+    "bottom": 297
+   },
+   {
+    "text": "Mentor / učitelj",
+    "left": 90,
+    "top": 385,
+    "right": 272,
+    "bottom": 412
+   },
+   {
+    "text": "Janez Petek",
+    "left": 90,
+    "top": 427,
+    "right": 289,
+    "bottom": 453
+   },
+   {
+    "text": "Ocena",
+    "left": 700,
+    "top": 387,
+    "right": 783,
+    "bottom": 406
+   },
+   {
+    "text": "3",
+    "left": 700,
+    "top": 428,
+    "right": 720,
+    "bottom": 453
+   },
+   {
+    "text": "Opis naloge",
+    "left": 90,
+    "top": 546,
+    "right": 239,
+    "bottom": 572
+   },
+   {
+    "text": "Delo je bilo opravljeno samostojno, z manjšimi popravki po posvetu z",
+    "left": 90,
+    "top": 596,
+    "right": 1006,
+    "bottom": 624
+   },
+   {
+    "text": "mentorjem.",
+    "left": 90,
+    "top": 640,
+    "right": 240,
+    "bottom": 668
+   }
+  ]
+ },
+ {
+  "program": "Kozmetični tehnik",
+  "name": "Eva Vidmar",
+  "teacher": "dr. Irena Kos",
+  "date": "12. 11. 2026",
+  "grade": "5",
+  "desc": "Prijava na zaključni izpit iz strokovnega modula. Opombe mentorja so priložene.",
+  "file": "prijavnica_059.png",
+  "layout": "layout_c",
+  "lines": [
+   {
+    "text": "Kozmetični tehnik",
+    "left": 100,
+    "top": 111,
+    "right": 557,
+    "bottom": 153
+   },
+   {
+    "text": "Datum: 12. 11. 2026",
+    "left": 900,
+    "top": 237,
+    "right": 1146,
+    "bottom": 257
+   },
+   {
+    "text": "Prijava na zaključni izpit iz strokovnega modula.",
+    "left": 100,
+    "top": 237,
+    "right": 726,
+    "bottom": 266
+   },
+   {
+    "text": "Opombe mentorja so priložene.",
+    "left": 100,
+    "top": 283,
+    "right": 503,
+    "bottom": 312
+   },
+   {
+    "text": "Dijak/inja:",
+    "left": 100,
+    "top": 388,
+    "right": 259,
+    "bottom": 420
+   },
+   {
+    "text": "Eva Vidmar",
+    "left": 100,
+    "top": 440,
+    "right": 291,
+    "bottom": 468
+   },
+   {
+    "text": "Učitelj/ica: dr. Irena Kos",
+    "left": 100,
+    "top": 539,
+    "right": 436,
+    "bottom": 570
+   },
+   {
+    "text": "Ocena: 5",
+    "left": 700,
+    "top": 541,
+    "right": 822,
+    "bottom": 563
+   },
+   {
+    "text": "Podpis učenca: ____________________",
+    "left": 100,
+    "top": 838,
+    "right": 557,
+    "bottom": 863
+   }
+  ]
+ },
+ {
+  "program": "Trgovec",
+  "name": "Ana Zupančič",
+  "teacher": "Janez Petek",
+  "date": "19. 5. 2026",
+  "grade": "2",
+  "desc": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro razumevanje snovi.",
+  "file": "prijavnica_060.png",
+  "layout": "layout_d",
+  "lines": [
+   {
+    "text": "TRGOVEC",
+    "left": 471,
+    "top": 105,
+    "right": 767,
+    "bottom": 148
+   },
+   {
+    "text": "Šolsko leto",
+    "left": 100,
+    "top": 280,
+    "right": 273,
+    "bottom": 310
+   },
+   {
+    "text": "2025/2026",
+    "left": 520,
+    "top": 287,
+    "right": 694,
+    "bottom": 313
+   },
+   {
+    "text": "Ime in priimek",
+    "left": 100,
+    "top": 366,
+    "right": 331,
+    "bottom": 397
+   },
+   {
+    "text": "Ana Zupančič",
+    "left": 520,
+    "top": 364,
+    "right": 738,
+    "bottom": 397
+   },
+   {
+    "text": "Učitelj",
+    "left": 100,
+    "top": 444,
+    "right": 200,
+    "bottom": 477
+   },
+   {
+    "text": "Janez Petek",
+    "left": 518,
+    "top": 446,
+    "right": 705,
+    "bottom": 476
+   },
+   {
+    "text": "Datum",
+    "left": 100,
+    "top": 527,
+    "right": 208,
+    "bottom": 550
+   },
+   {
+    "text": "19. 5. 2026",
+    "left": 520,
+    "top": 527,
+    "right": 703,
+    "bottom": 550
+   },
+   {
+    "text": "Ocena",
+    "left": 100,
+    "top": 607,
+    "right": 202,
+    "bottom": 630
+   },
+   {
+    "text": "2",
+    "left": 520,
+    "top": 607,
+    "right": 540,
+    "bottom": 630
+   },
+   {
+    "text": "Opis:",
+    "left": 100,
+    "top": 706,
+    "right": 193,
+    "bottom": 737
+   },
+   {
+    "text": "Učenec je opravil praktično nalogo v skladu z navodili in pokazal dobro",
+    "left": 100,
+    "top": 764,
+    "right": 1095,
+    "bottom": 792
+   },
+   {
+    "text": "razumevanje snovi.",
+    "left": 100,
+    "top": 807,
+    "right": 374,
+    "bottom": 834
+   },
+   {
+    "text": "Opombe: Učenec prinese izdelek na zagovor.",
+    "left": 100,
+    "top": 1558,
+    "right": 687,
+    "bottom": 1584
+   }
+  ]
+ }
+]
