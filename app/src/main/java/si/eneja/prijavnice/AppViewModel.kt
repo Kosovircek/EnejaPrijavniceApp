@@ -60,7 +60,13 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     val speaker = Speaker(app)
     val voice = VoiceCommands(app) { sendNav(it) }
 
-    private val recognizer = TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS)
+    private var recognizerInstance: com.google.mlkit.vision.text.TextRecognizer? = null
+    private val recognizer
+        get() = recognizerInstance ?: TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS)
+            .also { recognizerInstance = it }
+
+    /** Samo za posnetke zaslona v testih: prikaže pregled prebranega brez kamere. */
+    var scanPreview by mutableStateOf<ScanResult?>(null)
     private val saveMutex = Mutex()
 
     fun update(f: (SessionData) -> SessionData) {
@@ -183,7 +189,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     override fun onCleared() {
         voice.stop()
         speaker.shutdown()
-        recognizer.close()
+        recognizerInstance?.close()
         super.onCleared()
     }
 }

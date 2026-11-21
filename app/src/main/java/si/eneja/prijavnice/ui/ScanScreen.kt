@@ -69,10 +69,10 @@ fun ScanScreen(vm: AppViewModel) {
         mutableStateOf(ContextCompat.checkSelfPermission(ctx, Manifest.permission.CAMERA) == PackageManager.PERMISSION_GRANTED)
     }
     val launcher = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { hasPerm = it }
-    LaunchedEffect(Unit) { if (!hasPerm) launcher.launch(Manifest.permission.CAMERA) }
+    LaunchedEffect(Unit) { if (!hasPerm && vm.scanPreview == null) launcher.launch(Manifest.permission.CAMERA) }
 
     var busy by remember { mutableStateOf(false) }
-    var result by remember { mutableStateOf<ScanResult?>(null) }
+    var result by remember { mutableStateOf(vm.scanPreview) }
     var error by remember { mutableStateOf<String?>(null) }
     var confirmUndo by remember { mutableStateOf(false) }
 

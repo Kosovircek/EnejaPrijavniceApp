@@ -25,6 +25,21 @@ jobs:
           chmod +x gradlew
           ./gradlew :core:test :app:assembleDebug --stacktrace
 
+      - name: Posnetki zaslona
+        run: ./gradlew :app:testDebugUnitTest --stacktrace
+
+      - name: Shrani posnetke na vejo posnetki-zaslona
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd app/screenshots
+          git init -q
+          git checkout -q -b posnetki-zaslona
+          git add .
+          git -c user.name="github-actions" -c user.email="github-actions@users.noreply.github.com" commit -qm "Posnetki zaslona ${GITHUB_SHA::7}"
+          git push -f -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" posnetki-zaslona
+
       - name: Pripravi APK
         run: cp app/build/outputs/apk/debug/app-debug.apk Prijavnice.apk
 
